@@ -1,0 +1,10 @@
+{
+  "esp32": {
+    "version": "1.1.0",
+    "version_int": 65792,
+    "build": "test",
+    "url": "https://github.com/TUO_USERNAME/TUO_REPO/releases/download/v1.1.0/wireless_manager.bin",
+    "sha256": "DA_COMPILARE_DOPO",
+    "size": 0
+  }
+}
